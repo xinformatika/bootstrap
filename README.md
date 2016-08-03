@@ -1,2 +1,2 @@
 # Bootstrap
-Aplikasi dengan Bootstrap
+Aplikasi dan template dengan Bootstrap
