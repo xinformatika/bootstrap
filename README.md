@@ -1,2 +1,2 @@
-# bootstrap
-Aplikasi dengan Bootsrap
+# Bootstrap
+Aplikasi dengan Bootstrap
